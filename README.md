@@ -12,3 +12,7 @@ In this video, the program processes the image of the screen, gives it to the ar
 
 ![vision](1.png)
 The model gives us a pixel value equal to the steering angle of the steering wheel. Then the mouse is moved to this pixel value.
+
+----
+
+I drove the vehicle for 1 hour and also collected data and saved them in a CSV file. 
