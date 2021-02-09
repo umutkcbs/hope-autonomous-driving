@@ -15,4 +15,4 @@ The model gives us a pixel value equal to the steering angle of the steering whe
 
 ----
 
-I drove the vehicle for 1 hour and also collected data and saved them in a CSV file. 
+I drove the vehicle for 1 hour and also collected data and saved them in a CSV file. I trained the data in the CSV file using [the method and model in this link](https://vijayabhaskar96.medium.com/tutorial-on-keras-flow-from-dataframe-1fd4493d237c). 
