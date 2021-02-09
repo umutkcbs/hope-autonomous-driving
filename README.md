@@ -1,7 +1,9 @@
 # hope-autonomous-driving
 
+#### Autonomous Driving project for Euro Truck Simulator 2
+
 # Video:
-Autonomous Driving project for Euro Truck Simulator 2
+
 [![working](thumbnail.png)](https://youtu.be/xuVT6097cig)
 
 ## How is it working ?
