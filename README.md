@@ -11,3 +11,4 @@
 In this video, the program processes the image of the screen, gives it to the artificial intelligence model, turns the steering wheel according to the result.
 
 ![vision](1.png)
+The model gives us a pixel value equal to the steering angle of the steering wheel. Then the mouse is moved to this pixel value.
