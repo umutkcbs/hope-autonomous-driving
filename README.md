@@ -26,3 +26,5 @@ There are things you need to do before running codes:
 python -m pip install -r requirements.txt
 ```
 - Set the game to full screen and at 1280x720 resolution,
+- Adjust your seat to be the same as in the picture,
+![seat](2.png)
