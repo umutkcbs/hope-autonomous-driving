@@ -53,9 +53,10 @@ The supervised learning model is powerful as dataset. If you use 5 or 10 hours o
 
 ----
 
-## What's next
+## What's Next
   - Adaptive cruise control
   - Emergency brake
   - Lane changing
+  - Export as exe file
   
 > Special thanks to r/trucksim subreddit. [You guys motivated me to improve this project.](https://www.reddit.com/r/trucksim/comments/kyiv2v/i_made_an_autosteering_project_with_python/)
