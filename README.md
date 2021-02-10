@@ -20,7 +20,7 @@ I drove the vehicle for 1 hour and also collected data and saved them in a CSV f
 ## I want to run this
 
 There are things you need to do before running codes:
-- You need to install Python (I used version 3.7.9),
+- You need to install Python ([I used version 3.7.9](https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe)),
 - You have to install the components I use. If this is your first time using Python type in cmd:
 ```bash
 python -m pip install -r requirements.txt
