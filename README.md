@@ -21,8 +21,8 @@ I drove the vehicle for 1 hour and also collected data and saved them in a CSV f
 
 There are things you need to do before running codes:
 - You need to install Python (I used version 3.7.9),
-- Set the game to full screen and at 1280x720 resolution,
 - You have to install the components I use. If this is your first time using Python type in cmd:
 ```bash
 python -m pip install -r requirements.txt
 ```
+- Set the game to full screen and at 1280x720 resolution,
