@@ -28,5 +28,9 @@ python -m pip install -r requirements.txt
 - Set the game to full screen and at 1280x720 resolution,
 - Adjust your seat to be the same as in the picture,
 - ![seat](2.png)
+- Type in console:
+```bash
+c_rsteersens 0.32
+```
 - Align the steering wheel as centrally as possible,
 - ![wheel](3.png)
