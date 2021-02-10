@@ -28,9 +28,11 @@ python -m pip install -r requirements.txt
 - Set the game to full screen and at 1280x720 resolution,
 - Adjust your seat to be the same as in the picture,
 - ![seat](2.png)
-- Type in console:
+- Type in console ([enable console](https://forum.scssoft.com/viewtopic.php?t=61852)):
 ```bash
-c_rsteersens 0.32
+c_rsteersens 0.325500
 ```
 - Align the steering wheel as centrally as possible,
 - ![wheel](3.png)
+
+Ready to go! Run the code and wait for the beep. (Press F4 to stop the code)
