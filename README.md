@@ -13,9 +13,9 @@ In this video, the program processes the image of the screen, gives it to the ar
 ![vision](1.png)
 The model gives us a pixel value equal to the steering angle of the steering wheel. Then the mouse is moved to this pixel value.
 
-----
-
 I drove the vehicle for 1 hour and also collected data and saved them in a CSV file. I trained the data in the CSV file using [the method and model in this link](https://vijayabhaskar96.medium.com/tutorial-on-keras-flow-from-dataframe-1fd4493d237c). 
+
+----
 
 ## I want to run this
 
@@ -36,3 +36,14 @@ c_rsteersens 0.325500
 - ![wheel](3.png)
 
 Ready to go! Run the code and wait for the beep. (Press F4 to stop the code)
+
+----
+
+##Older Versions
+They were driving the car using only the A and D keys. It was working with bunch of if-else' instead deep learning. 
+  - [Version 1](https://www.instagram.com/p/CJ3B53Dp0hC/)
+  - [Version 2](https://www.instagram.com/p/CJ_LCKqpxc_/)
+  
+## Limitations
+Shadows can confuse the model [for example this clip](golge.mp4). To avoid this you can use high beams.
+The supervised learning model is powerful as dataset. If you use 5 or 10 hours of driving footage instead of 1 hour, the model performance will increase amazingly. If I do it before you do, I'll upload the model here ;)
