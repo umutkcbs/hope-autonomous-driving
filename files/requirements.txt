@@ -1,10 +1,10 @@
-imutils==0.5.3
+imutils==0.5.4
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
 keyboard==0.13.5
-numpy==1.18.5
-opencv-python==4.4.0.46
-Pillow==8.0.1
-PyDirectInput==1.0.3
-pygame==2.0.0
+numpy==1.19.5
+opencv-python==4.5.1.48
+Pillow==8.1.0
+PyDirectInput==1.0.4
+pygame==2.0.1
 tensorflow
