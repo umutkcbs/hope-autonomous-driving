@@ -24,6 +24,8 @@ There are things you need to do before running codes:
 ```bash
 python -m pip install -r requirements.txt
 ```
+- Change the Windows cursor speed to 4
+- ![cursor](cursor.jpg)
 - Set the game to full screen and at 1280x720 resolution,
 - Adjust your seat to be the same as in the picture,
 - ![seat](2.png)
@@ -34,7 +36,7 @@ c_rsteersens 0.325500
 - Align the steering wheel as centrally as possible,
 - ![wheel](3.png)
 
-Ready to go! Run the code and wait for the beep. (Press F4 to stop the code)
+Ready to go! Run the code and wait for the beep. (Press F1 to stop the code)
 
 ## Older Versions
 They were driving the car using only the A and D keys. It was working with bunch of if-else' instead deep learning. 
@@ -46,9 +48,9 @@ Shadows can confuse the model [(for example this clip)](https://drive.google.com
 The supervised learning model is powerful as dataset. If you use 5 or 10 hours of driving footage instead of 1 hour, the model performance will increase amazingly. If I do it before you do, I'll upload the model here ;)
 
 ## What's Next
-  - Adaptive cruise control
+  - :white_check_mark: Lane changing
+  - :gear: Adaptive cruise control
   - Emergency brake
-  - Lane changing
   - Export as exe file
   
 ## License
