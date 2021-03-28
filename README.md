@@ -55,4 +55,4 @@ The supervised learning model is powerful as dataset. If you use 5 or 10 hours o
   
 ## License
 [MIT](LICENSE)
-> Special thanks to r/trucksim subreddit. [You guys motivated me to improve this project.](https://www.reddit.com/r/trucksim/comments/kyiv2v/i_made_an_autosteering_project_with_python/)
+> Special thanks to [r/trucksim](https://www.reddit.com/r/trucksim/comments/kyiv2v/i_made_an_autosteering_project_with_python/) and [/Python.](https://www.reddit.com/r/Python/comments/lgvojf/i_made_autosteering_project/)
