@@ -33,10 +33,9 @@ python -m pip install -r requirements.txt
 ```bash
 c_rsteersens 0.325500
 ```
-- Align the steering wheel as centrally as possible,
 - ![wheel](3.png)
 
-Ready to go! Run the code and wait for the beep. (Press F1 to stop the code)
+Ready to go! Align the steering wheel as centrally as possible before run the code. Run the code and wait for the beep. (Press F1 to stop the code) ()
 
 ## Older Versions
 They were driving the car using only the A and D keys. It was working with bunch of if-else' instead deep learning. 
