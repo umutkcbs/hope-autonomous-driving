@@ -44,6 +44,7 @@ They were driving the car using only the A and D keys. It was working with bunch
   - [Version 2](https://www.instagram.com/p/CJ_LCKqpxc_/)
   
 ## Limitations
+Not compatible with 1.40. Because high beams don't affect shadows.  
 Shadows can confuse the model [(for example this clip)](https://drive.google.com/file/d/1aLDsOZm6rvWgT6dJnb04MZIDKJk0hzMj/view?usp=sharing). To avoid this you can use high beams.  
 The supervised learning model is powerful as dataset. If you use 5 or 10 hours of driving footage instead of 1 hour, the model performance will increase amazingly. If I do it before you do, I'll upload the model here ;)
 
