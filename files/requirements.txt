@@ -2,7 +2,7 @@ imutils==0.5.4
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
 keyboard==0.13.5
-numpy==1.19.5
+numpy
 opencv-python==4.5.1.48
 Pillow>=8.1.0
 PyDirectInput==1.0.4
