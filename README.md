@@ -1,3 +1,24 @@
+[![banner](banner.jpg)](http://martilar.tk)
+# Changes Over 2 Years:
+
+Over the course of two years,
+
+- :video_game: We used three different games to test and coded our simulator in Unity.
+- :movie_camera: We hacked an RC ride-on car and attached a camera to show the real world to our AI.
+- :oncoming_automobile: Then we optimized our entire AI system to work with cars instead of trucks in ETS2. When we tested the project on real roads with a real car, we obtained outstanding results with only 37 minutes of driving dataset (all data is syntetic).
+- :stop_sign: Additionally, we collected a dataset for detecting traffic signs in Türkiye, and our project is compatible with both SSD and YOLO models for receiving instructions.
+- :triangular_ruler: Moreover, the project can use the RealSense depth camera to measure the distance between detected objects and adjust throttle input.
+
+## :arrow_forward: Click image to watch video
+
+[![video](cb.png)](https://youtu.be/I_WLtq7Vhv4)
+
+:warning: Currently, we are participating in several competitions with this project; therefore, it is not possible to share a new version of the project as open source. However, in the meantime, we will share some files and instructions to demonstrate our knowledge. This project shows us power of simplifying and cleaning data.
+
+---
+---
+---
+
 # hope-autonomous-driving
 
 #### Autonomous Driving project for Euro Truck Simulator 2
@@ -44,16 +65,21 @@ They were driving the car using only the A and D keys. It was working with bunch
   - [Version 2](https://www.instagram.com/p/CJ_LCKqpxc_/)
   
 ## Limitations
-Not compatible with 1.40. Because high beams don't affect shadows.  
+:exclamation: Not compatible over 1.40. SCS has changed the way mouse steering works. I wrote new controller that can be used with newer versions of ETS2, but I am hesitant to release it due to fear of being sued.
+
+Not compatible over 1.40. Because high beams don't affect shadows.  
 Shadows can confuse the model [(for example this clip)](https://drive.google.com/file/d/1aLDsOZm6rvWgT6dJnb04MZIDKJk0hzMj/view?usp=sharing). To avoid this you can use high beams.  
-The supervised learning model is powerful as dataset. If you use 5 or 10 hours of driving footage instead of 1 hour, the model performance will increase amazingly. If I do it before you do, I'll upload the model here ;)
+The supervised learning model is powerful as dataset. If you use 5 or 10 hours of driving footage instead of 1 hour, the model performance will increase amazingly.  
+~~If I do it before you do, I'll upload the model here ;)~~ Now I am trying to reduce dataset size while increasing accuracy
 
 ## What's Next
-  - :white_check_mark: Lane changing
-  - :gear: Adaptive cruise control
-  - Emergency brake
-  - Export as exe file
-  
+
+  - ~~:white_check_mark: Lane changing~~
+  - ~~:gear: Adaptive cruise control~~
+  - ~~:white_check_mark: Emergency brake~~
+  - ~~Export as exe file~~  
+  - *It's not over until we win*
+
 ## License
 [MIT](LICENSE)
-> Special thanks to [r/trucksim](https://www.reddit.com/r/trucksim/comments/kyiv2v/i_made_an_autosteering_project_with_python/) and [/Python.](https://www.reddit.com/r/Python/comments/lgvojf/i_made_autosteering_project/)
+> Special thanks to [r/trucksim](https://www.reddit.com/r/trucksim/comments/kyiv2v/i_made_an_autosteering_project_with_python/) and [r/Python.](https://www.reddit.com/r/Python/comments/lgvojf/i_made_autosteering_project/)
