@@ -3,7 +3,8 @@
 
 Over the course of two years,
 
-- :video_game: We used three different games to test and coded our simulator in Unity.
+- :video_game: We used three different games to test. 
+- :night_with_stars: And coded our simulator in Unity.
 - :movie_camera: We hacked an RC ride-on car and attached a camera to show the real world to our AI.
 - :oncoming_automobile: Then we optimized our entire AI system to work with cars instead of trucks in ETS2. When we tested the project on real roads with a real car, we obtained outstanding results with only 37 minutes of driving dataset (all data is syntetic).
 - :stop_sign: Additionally, we collected a dataset for detecting traffic signs in Türkiye (~20.000 images), and our project is compatible with both SSD and YOLO models for receiving instructions.
