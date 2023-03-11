@@ -3,7 +3,7 @@
 
 Over the course of two years,
 
-- :video_game: We used three different games to test. 
+- :video_game: We used "Assetto Corsa" and "BeamNG.drive" to test. 
 - :night_with_stars: And coded our simulator in Unity.
 - :movie_camera: We hacked an RC ride-on car and attached a camera to show the real world to our AI.
 - :oncoming_automobile: Then we optimized our entire AI system to work with cars instead of trucks in ETS2. When we tested the project on real roads with a real car, we obtained outstanding results with only 37 minutes of driving dataset (all data is syntetic).
